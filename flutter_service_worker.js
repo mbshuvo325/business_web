@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "639641dadf9fe3c91f30e13619d624f5",
+  "assets/AssetManifest.json": "663ab2d43165161f158a27c0547b3a9b",
 "assets/FontManifest.json": "16f78ef77fc139f3fe2427705258c61c",
 "assets/fonts/Hind_Siliguri-Regular_GhOgZt6.ttf": "c35557270087ba64812331665bec9cd4",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -48,6 +48,7 @@ const RESOURCES = {
 "assets/images/onboard2.png": "ab6a3e19c204d46ad08be458e3b1d122",
 "assets/images/printButton.png": "fe92041372241111c3f2ac120cbe827b",
 "assets/images/report.png": "455dbbc60418022c84799aa4f8661773",
+"assets/images/setting.png": "1156244f9ea08b2deb918753c8164cbd",
 "assets/images/shop_features/bo.png": "ddbe85a311215c9c9b0fe838a79d2b94",
 "assets/images/shop_features/calculator.png": "dcb1237153a0e741dcc5f1ea375ab47e",
 "assets/images/shop_features/contacts.png": "3e66a8e7ed08d68915179e7887337cb8",
@@ -144,13 +145,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/bee.png": "eaadd5d1d2d1941904e0c6447ff8ba72",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1b705dc8c8562b9a4d63d3b2cad4d589",
-"/": "1b705dc8c8562b9a4d63d3b2cad4d589",
-"main.dart.js": "e673b0e54d3f7ac71de798e7d734762f",
+"index.html": "d4f91e4b80d3870e2c41916a1f811c42",
+"/": "d4f91e4b80d3870e2c41916a1f811c42",
+"main.dart.js": "1f2a749e3da1c93e44b6ae6f0a63b110",
 "manifest.json": "a7ae35be0921fe2850b4727676fbdda3",
 "splash/style.css": "9da546edafcbd175633926c9f12d5f79",
 "version.json": "e9794d3a5755558b4904f1bea9229344"
